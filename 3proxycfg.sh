@@ -18,7 +18,7 @@ echo #allow admin
 
 # HTTP(S) прокси
 echo "auth iponly"
-echo "allow * 1.4.8.8"
+echo "allow *165.227.145.146"
 
 #echo "users user1:CL:user1"
 #echo "flush"
